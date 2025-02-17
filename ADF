@@ -1,0 +1,50 @@
+Azure Data Engineering interview questions:
+
+Azure Data Factory (ADF):
+1) What is Azure Data Factory, and what are its key components?
+2) How do you create and schedule pipelines in ADF?
+3) Can you explain the difference between linked services and datasets in ADF?
+4) How would you implement incremental data loading in ADF?
+5) What are triggers in ADF, and how do they function?
+
+Data Storage Solutions:
+1) What is Azure Blob Storage, and what are its common use cases?
+2) How does Azure Data Lake Storage Gen2 differ from Azure Blob Storage?
+3) Can you discuss the features and benefits of Azure SQL Database?
+4) What is Azure Synapse Analytics, and how does it integrate with other Azure services?
+
+Data Processing and Analytics:
+1) What is Azure Databricks, and when would you use it?
+2) How does Azure Stream Analytics process real-time data?
+3) Can you explain the concept of PolyBase in Azure SQL Data Warehouse?
+4) What are the differences between ETL and ELT, and how are they implemented in Azure?
+
+Security and Compliance:
+1) How does Azure ensure data security and compliance?
+2) What is dynamic data masking in Azure SQL Database?
+3) Can you explain the role of Azure Active Directory in data security?
+4) How would you implement role-based access control (RBAC) in Azure?
+
+Performance Optimization:
+1) What strategies would you use to optimize data storage costs in Azure?
+2) How can you improve the performance of an Azure SQL Database?
+3) What is partitioning in Azure Data Lake Storage, and why is it important?
+4) Can you discuss the use of caching in Azure Databricks to enhance performance?
+
+Monitoring and Troubleshooting:
+1) How do you monitor data pipelines in Azure Data Factory?
+2) What tools does Azure provide for logging and diagnostics?
+3) How would you handle failures in an ADF pipeline?
+4) Can you explain the use of Azure Monitor in tracking data workflows?
+
+Advanced Topics:
+1) What are Azure Data Bricks, and how do they integrate with other Azure services?
+2) How does Azure support big data processing and analytics?
+3) Can you explain the concept of a Data Lakehouse and its implementation in Azure?
+4) What is the role of machine learning in Azure Data Engineering?
+
+Scenario-Based Questions:
+1) Describe a situation where you had to design a data pipeline in Azure to handle large-scale data ingestion. What services did you use, and why?
+2) How would you migrate an on-premises data warehouse to Azure?
+3) Can you provide an example of implementing real-time data processing in Azure?
+4) How have you used Azure's data analytics services to offer insights to stakeholders?
